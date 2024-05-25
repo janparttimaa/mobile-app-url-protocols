@@ -1,9 +1,16 @@
 #### Table of Contents
+- [Protocols](#protocols)
+  * [Facebook](#facebook)
+    + [Code for Intune](#code-for-intune)
+  * [Instagram](#instagram)
+    + [Code for Intune](#code-for-intune-1)
+  * [LinkedIn](#linkedin)
+    + [Code for Intune](#code-for-intune-2)
+  * [X / Twitter](#x---twitter)
+    + [Code for Intune](#code-for-intune-3)
 
-- [Underline](#underline)
-- [Indent](#indent)
-- [Center](#center)
-- [Color](#color)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # Protocols
 See more below.
 ## Facebook
