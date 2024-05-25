@@ -57,5 +57,17 @@ See more below.
 | Instagram     | instagram-secure-share;instagram-reels;instagram-stories;fb124024574287414;instagram;instagram-auth;instagram-capture; |
 
 ## LinkedIn
+- voyager
+- linkedin
+- linkedin-sdk
+- linkedin-sdk2
+- ha6ab2236211f94090a11d971fe0fb1992
+- vcclient
+
+### Code for Intune
+
+| Key     | Value |
+| ----------- | ----------- |
+| LinkedIn    | voyager;linkedin;linkedin-sdk;linkedin-sdk2;ha6ab2236211f94090a11d971fe0fb1992;vcclient; |
 
 ## X / Twitter
