@@ -49,10 +49,13 @@ See more below.
 - instagram
 - instagram-auth
 - instagram-capture
-- 
+
+### Code for Intune
+
 | Key     | Value |
 | ----------- | ----------- |
-| Instagram     | 
+| Instagram     | instagram-secure-share;instagram-reels;instagram-stories;fb124024574287414;instagram;instagram-auth;instagram-capture; |
+
 ## LinkedIn
 
 ## X / Twitter
