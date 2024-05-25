@@ -88,4 +88,4 @@ See more below.
 
 | Key     | Value |
 | ----------- | ----------- |
-| X / Twitter  | twitter;com.twitter.twitter-iphone;com.twitter.twitter-iphone+1.0.0;tweetie;com.atebits.Tweetie2;com.atebits.Tweetie2+2.0.0;com.atebits.Tweetie2+2.1.0;com.atebits.Tweetie2+2.1.1;com.atebits.Tweetie2+3.0.0;fb2231777543;twitterauth;com.googleusercontent.apps.638150425128-l5vqrme56bqgum2unv5151c5569dllud; |
+| X  | twitter;com.twitter.twitter-iphone;com.twitter.twitter-iphone+1.0.0;tweetie;com.atebits.Tweetie2;com.atebits.Tweetie2+2.0.0;com.atebits.Tweetie2+2.1.0;com.atebits.Tweetie2+2.1.1;com.atebits.Tweetie2+3.0.0;fb2231777543;twitterauth;com.googleusercontent.apps.638150425128-l5vqrme56bqgum2unv5151c5569dllud; |
